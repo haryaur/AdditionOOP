@@ -11,6 +11,7 @@ public class Addition {
         System.out.print(x + y + z);
     }
     public static void main(String args[]) {
+        // using a public method
          Addition s1 = new Addition(5,2,-1);
             s1.Sum();
     }
